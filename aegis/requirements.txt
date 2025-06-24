@@ -1,0 +1,4 @@
+gpt4all
+pypdf
+sqlite-utils
+tabulate
